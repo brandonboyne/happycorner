@@ -1,0 +1,28 @@
+
+    
+h1{color: dodgerblue;font-style: oblique;height:500pix;}
+
+.gallery {
+    transition-duration: 1s;
+    padding: 15pix;
+    width: 300pix;}
+
+ .gallery :hover {
+        filter: grayscale(100%);
+     transform: scale(1.1);}
+    
+.gallery2 {
+    transition-duration: 1s;
+    padding: 15pix;
+    width: 300pix;}
+
+ .gallery2 :hover {
+        filter: grayscale(100%);
+     transform: scale(1.1);}
+ 
+.gallery3{ transition-duration: 1s;
+    padding: 15pix;
+    width: 200pix;}
+.gallery3:hover {
+        filter: grayscale(100%);
+        transform: scale(1.1);
